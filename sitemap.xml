@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/rohitsort/favatron/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://github.com/rohitsort/favatron/</loc>
+</url>
+<url>
+<loc>https://github.com/rohitsort/favatron/appeal-for-disabled-gmail-account-reactivation.html</loc>
+<lastmod>2025-02-04T18:25:03+05:30</lastmod>
+<image:image>
+<image:loc>https://github.com/rohitsort/favatron/media/posts/1/Appeal-for-Disabled-Gmail-Account-Reactivation.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://github.com/rohitsort/favatron/gmail-account-login-issue.html</loc>
+<lastmod>2025-02-04T18:24:54+05:30</lastmod>
+<image:image>
+<image:loc>https://github.com/rohitsort/favatron/media/posts/2/gmail-login-issue.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

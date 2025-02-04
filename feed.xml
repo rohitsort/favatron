@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>favatron.com</title>
+    <link href="https://github.com/rohitsort/favatron/feed.xml" rel="self" />
+    <link href="https://github.com/rohitsort/favatron" />
+    <updated>2025-02-04T18:25:03+05:30</updated>
+    <author>
+        <name>Favatron</name>
+    </author>
+    <id>https://github.com/rohitsort/favatron</id>
+
+    <entry>
+        <title>Gmail Account Login Issue</title>
+        <author>
+            <name>Favatron</name>
+        </author>
+        <link href="https://github.com/rohitsort/favatron/gmail-account-login-issue.html"/>
+        <id>https://github.com/rohitsort/favatron/gmail-account-login-issue.html</id>
+        <media:content url="https://github.com/rohitsort/favatron/media/posts/2/gmail-login-issue.webp" medium="image" />
+            <category term="google account recovery"/>
+            <category term="gmail login"/>
+            <category term="gmail account login"/>
+            <category term="Tech"/>
+            <category term="Google Support"/>
+
+        <updated>2025-02-04T18:04:03+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/rohitsort/favatron/media/posts/2/gmail-login-issue.webp" alt="" />
+                    It looks like Google flagged your Gmail account due to suspicious activity after you logged in from a USA RDP. Since your phone number is not being accepted for verification, follow these steps to recover your account: If you still face issues, let me know,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://github.com/rohitsort/favatron/media/posts/2/gmail-login-issue.webp" class="type:primaryImage" alt="" /></p>
+                <p>It looks like Google flagged your Gmail account due to suspicious activity after you logged in from a USA RDP. Since your phone number is not being accepted for verification, follow these steps to recover your account:</p>
+<h3><strong>1. Use Google Account Recovery</strong></h3>
+<ul>
+<li>Go to <a rel="noopener" target="_new">Google Account Recovery</a>.</li>
+<li>Click on <strong>"Forgot Password"</strong> or <strong>"Try Another Way"</strong>.</li>
+<li>If Google asks for an old password, try entering any previously used password.</li>
+<li>If you see the option to verify via email or phone number, try to receive an OTP and verify.</li>
+</ul>
+<h3><strong>2. Try Incognito Mode or a Different Browser</strong></h3>
+<ul>
+<li>Open your browser in <strong>Incognito Mode</strong> (Private Browsing) and try logging in.</li>
+<li>Use a different browser like <strong>Mozilla Firefox, Microsoft Edge, or Safari</strong>.</li>
+</ul>
+<h3><strong>3. Log in from a Trusted Device</strong></h3>
+<ul>
+<li>If you previously logged in on any device (phone or laptop), try signing in from there.</li>
+<li>Google may allow access from a recognized device and location.</li>
+</ul>
+<h3><strong>4. Use a VPN to Log in from a USA IP</strong></h3>
+<ul>
+<li>If your account is still locked, try using a <strong>VPN with a USA IP</strong> and attempt logging in.</li>
+<li>You can use VPN services like <strong>ProtonVPN, ExpressVPN, or NordVPN</strong>.</li>
+</ul>
+<h3><strong>5. Contact Google Support</strong></h3>
+<ul>
+<li>Visit <a rel="noopener" target="_new">Google Help Center</a>.</li>
+<li>Select <strong>"Can’t sign in to your Google Account"</strong> and look for <strong>"Get Help"</strong> or <strong>"Contact Support"</strong>.</li>
+</ul>
+<h3><strong>6. Wait for 48-72 Hours</strong></h3>
+<ul>
+<li>Sometimes Google places a temporary lock due to security reasons.</li>
+<li>Wait <strong>48-72 hours</strong>, then try logging in again.</li>
+</ul>
+<p>If you still face issues, let me know, and I can suggest further steps.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Appeal for Disabled Gmail Account Reactivation</title>
+        <author>
+            <name>Favatron</name>
+        </author>
+        <link href="https://github.com/rohitsort/favatron/appeal-for-disabled-gmail-account-reactivation.html"/>
+        <id>https://github.com/rohitsort/favatron/appeal-for-disabled-gmail-account-reactivation.html</id>
+        <media:content url="https://github.com/rohitsort/favatron/media/posts/1/Appeal-for-Disabled-Gmail-Account-Reactivation.jpg" medium="image" />
+            <category term="Tech"/>
+
+        <updated>2025-02-04T14:34:59+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/rohitsort/favatron/media/posts/1/Appeal-for-Disabled-Gmail-Account-Reactivation.jpg" alt="" />
+                    Dear Google Support Team, I recently created this Gmail account, but now it is not working, and I am seeing a message that my account has been disabled. I am unsure about the exact reason for the deactivation, but I assure you that I have&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://github.com/rohitsort/favatron/media/posts/1/Appeal-for-Disabled-Gmail-Account-Reactivation.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Dear Google Support Team,</p>
+<p>I recently created this Gmail account, but now it is not working, and I am seeing a message that my account has been disabled. I am unsure about the exact reason for the deactivation, but I assure you that I have not violated any Google policies intentionally.</p>
+<p>I was using this email for personal communication and essential work. Kindly review my account and let me know if there is any issue that needs to be resolved. I would appreciate your help in restoring access to my account as soon as possible.</p>
+<p>Looking forward to your response.</p>
+<p>Best regards,<br>[Your Name]<br>[Your Gmail ID]</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
